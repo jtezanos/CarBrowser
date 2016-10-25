@@ -7,6 +7,8 @@
 //
 
 import XCTest
+import Quick
+import Nimble
 @testable import CarBrowser
 
 class CarBrowserTests: XCTestCase {
